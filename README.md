@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and C++**
 
-- 📄 Know about my experiences [brocoli05.github.io](brocoli05.github.io)
+- 📄 Know about my experiences [brocoli05.github.io](https://brocoli05.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
