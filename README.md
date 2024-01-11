@@ -9,9 +9,9 @@
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=brocoli05&label=Profile%20views&color=0e75b6&style=flat" alt="brocoli05" /></p>
 
-- 🔭 I’m currently working on ['blog application with MERN'](https://github.com/brocoli05/mern_blog)
+- 🔭 I’m currently working on ['Money Tracker App'](https://github.com/brocoli05/money-tracker)
 
-- 🌱 I’m currently learning **React and C++**
+- 🌱 I’m currently learning **React and Python**
 
 - 📄 Know about my experiences [brocoli05.github.io](https://brocoli05.github.io)
 
