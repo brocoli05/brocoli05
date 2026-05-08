@@ -3,15 +3,15 @@
   <a href="linkedin.com/in/minji-kim-cs23">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/minji-kim-cs23"/>
   </a>
-  <a href="mjkimthebest@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mjkimthebest@gmail.com"/>
+  <a href="minji.dev23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="minji.dev23@gmail.com"/>
   </a>
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=brocoli05&label=Profile%20views&color=0e75b6&style=flat" alt="brocoli05" /></p>
 
-- 🔭 I’m currently working on ['Money Tracker App'](https://github.com/brocoli05/money-tracker)
+- 🔭 I’m currently working on ['Finance Tracker'](https://github.com/brocoli05/finance-tracker)
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **MCP model**
 
 - 📄 Know about my experiences [brocoli05.github.io](https://brocoli05.github.io)
 
