@@ -42,7 +42,7 @@ Since then, I completed a co-op as an Automation Developer at an Ontario governm
 ### 🚀 Featured Project
 
 #### [Finance Tracker](https://github.com/brocoli05/finance-tracker)
-> AI-powered personal finance tracker built with **Next.js 14 · TypeScript · Supabase · Claude API**  
+> AI-powered personal finance tracker built with **Next.js 15 · TypeScript · Supabase**  
 > Demonstrates full-stack development with real-world AI integration.
 
 ---
