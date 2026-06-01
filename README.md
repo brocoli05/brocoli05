@@ -23,7 +23,7 @@ Since then, I completed a co-op as an Automation Developer at an Ontario governm
 ### 🔧 Tech Stack
 
 **Test & QA**
-`Selenium` `Cypress` `Playwright` `Postman` `REST API Testing`
+`Selenium` `pytest` `Cypress` `Playwright` `Postman` `REST API Testing`
 
 **Languages**
 `JavaScript` `TypeScript` `Java` `Python` `C#/.NET`
